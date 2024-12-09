@@ -31,7 +31,7 @@ goto(0, 0)
 pendown()
 for i in range(16):
      for j in range(18):
-          color("yellow")
+          color("purple")
           h+=0.005
           rt(90)
           circle(150-j*6,90)
